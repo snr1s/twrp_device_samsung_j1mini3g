@@ -1,0 +1,2 @@
+PRODUCT_MAKEFILES:=$(LOCAL_DIR)/omni_j1mini3g.mk
+COMMON_LUNCH_CHOICES:=omni_j1mini3g-eng
