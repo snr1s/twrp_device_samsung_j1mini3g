@@ -42,3 +42,4 @@ TARGET_RECOVERY_FSTAB:=$(DEVICE_PATH)/recovery.fstab
 TW_HAS_DOWNLOAD_MODE:=true
 TW_NO_REBOOT_BOOTLOADER:=true
 TW_NO_SCREEN_BLANK:=true
+TW_CUSTOM_CPU_TEMP_PATH:=/sys/class/thermal/thermal_zone1/temp
