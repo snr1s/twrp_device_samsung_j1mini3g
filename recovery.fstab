@@ -37,6 +37,6 @@
 /dev/block/platform/sdio_emmc/by-name/RECOVERY     /recovery    emmc            default              recoveryonly
 /dev/block/platform/sdio_emmc/by-name/MODEM        /wmodem      emmc            default              recoveryonly
 /dev/block/platform/sdio_emmc/by-name/WDSP         /wdsp        emmc            default              recoveryonly
-/dev/block/platform/sdio_sd/mmcblk1p1              /sdcard      vfat            default              recoveryonly
+/dev/block/platform/sdio_sd/mmcblk1p1              /sdcard1     vfat            default              recoveryonly
 /dev/block/platform/sdio_emmc/by-name/PERSISTENT   /persistent  emmc            defaults             defaults
 /dev/block/platform/sdio_emmc/by-name/persdata     /persdata    ext4            default              recoveryonly
